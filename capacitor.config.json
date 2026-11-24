@@ -1,0 +1,12 @@
+{
+  "appId": "com.pideycompite.app",
+  "appName": "AlToque",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#FAF9F6",
+    "allowMixedContent": true
+  }
+}

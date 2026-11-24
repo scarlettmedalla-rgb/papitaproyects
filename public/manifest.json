@@ -1,0 +1,19 @@
+{
+  "name": "AlToque — Subastas Inversas Locales",
+  "short_name": "AlToque",
+  "description": "Subastas inversas locales en tiempo real con comercios verificados, Vaquita Grupal y Cartas de Beneficio.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF9F6",
+  "theme_color": "#FAF9F6",
+  "lang": "es-CL",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

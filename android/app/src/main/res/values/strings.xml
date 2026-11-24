@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AlToque</string>
+    <string name="title_activity_main">AlToque</string>
+    <string name="package_name">com.pideycompite.app</string>
+    <string name="custom_url_scheme">com.pideycompite.app</string>
+</resources>
